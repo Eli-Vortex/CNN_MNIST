@@ -1,0 +1,79 @@
+[2026-01-17 12:11:40,582] Epoch 1: Loss=0.5588, Acc=91.25%
+[2026-01-17 12:12:28,081] Epoch 2: Loss=0.2240, Acc=94.51%
+[2026-01-17 12:13:15,172] Epoch 3: Loss=0.1746, Acc=94.50%
+[2026-01-17 12:14:02,618] Epoch 4: Loss=0.1483, Acc=95.44%
+[2026-01-17 12:14:49,360] Epoch 5: Loss=0.1329, Acc=96.02%
+[2026-01-17 12:21:22,128] Epoch 1: Loss=0.5623, Acc=90.99%
+[2026-01-17 12:22:08,246] Epoch 2: Loss=0.2415, Acc=93.57%
+[2026-01-17 12:22:55,009] Epoch 3: Loss=0.1898, Acc=94.60%
+[2026-01-17 12:23:41,503] Epoch 4: Loss=0.1591, Acc=95.30%
+[2026-01-17 12:24:27,951] Epoch 5: Loss=0.1426, Acc=95.93%
+[2026-01-17 12:30:45,640] Epoch 1: Loss=0.5735, Acc=97.24%
+[2026-01-17 12:31:12,029] Epoch 2: Loss=0.2306, Acc=97.09%
+[2026-01-17 12:31:38,183] Epoch 3: Loss=0.1806, Acc=98.22%
+[2026-01-17 12:32:04,327] Epoch 4: Loss=0.1547, Acc=98.49%
+[2026-01-17 12:32:30,460] Epoch 5: Loss=0.1381, Acc=98.44%
+[2026-01-17 12:59:00,562] Using device: cuda
+[2026-01-17 12:59:00,563] Config: configs/config.yaml
+[2026-01-17 12:59:27,305] Epoch [1/5], Loss=0.5998, Acc=96.66%
+[2026-01-17 12:59:27,357] Best model saved: ./checkpoints/best.pth
+[2026-01-17 12:59:53,556] Epoch [2/5], Loss=0.2372, Acc=97.82%
+[2026-01-17 12:59:53,581] Best model saved: ./checkpoints/best.pth
+[2026-01-17 13:00:19,752] Epoch [3/5], Loss=0.1794, Acc=98.04%
+[2026-01-17 13:00:19,778] Best model saved: ./checkpoints/best.pth
+[2026-01-17 13:00:46,172] Epoch [4/5], Loss=0.1504, Acc=98.37%
+[2026-01-17 13:00:46,198] Best model saved: ./checkpoints/best.pth
+[2026-01-17 13:01:12,480] Epoch [5/5], Loss=0.1341, Acc=98.49%
+[2026-01-17 13:01:12,557] Best model saved: ./checkpoints/best.pth
+[2026-01-17 13:01:12,557] ✅ Training finished
+[2026-01-17 13:07:36,769] Using device: cuda
+[2026-01-17 13:07:36,769] Config: configs/config.yaml
+[2026-01-17 13:07:37,101] Resuming from checkpoint: checkpoints/best.pth
+[2026-01-17 13:07:37,121] ✅ Training finished
+[2026-01-17 13:33:10,281] Using device: cuda
+[2026-01-17 13:33:10,281] Config: configs/config.yaml
+[2026-01-17 13:33:37,295] Epoch [1/5], Loss=0.5970, Acc=96.22%
+[2026-01-17 13:33:37,347] Best model saved: ./checkpoints/best.pth
+[2026-01-17 13:34:03,584] Epoch [2/5], Loss=0.2444, Acc=97.23%
+[2026-01-17 13:34:03,605] Best model saved: ./checkpoints/best.pth
+[2026-01-17 13:34:29,652] Epoch [3/5], Loss=0.1910, Acc=98.48%
+[2026-01-17 13:34:29,674] Best model saved: ./checkpoints/best.pth
+[2026-01-17 13:34:55,998] Epoch [4/5], Loss=0.1572, Acc=98.44%
+[2026-01-17 13:35:22,425] Epoch [5/5], Loss=0.1411, Acc=98.61%
+[2026-01-17 13:35:22,455] Best model saved: ./checkpoints/best.pth
+[2026-01-17 13:35:22,455] ✅ Training finished
+[2026-01-17 13:40:18,279] Using device: cuda
+[2026-01-17 13:40:18,279] Config: configs/lr_1e-3.yaml
+[2026-01-17 13:40:45,434] Epoch [1/5], Loss=0.5728, Acc=97.01%
+[2026-01-17 13:40:45,472] Best model saved: ./checkpoints/best.pth
+[2026-01-17 13:41:12,477] Epoch [2/5], Loss=0.2428, Acc=96.87%
+[2026-01-17 13:41:39,368] Epoch [3/5], Loss=0.1890, Acc=98.04%
+[2026-01-17 13:41:39,498] Best model saved: ./checkpoints/best.pth
+[2026-01-17 13:42:05,829] Epoch [4/5], Loss=0.1627, Acc=98.49%
+[2026-01-17 13:42:05,986] Best model saved: ./checkpoints/best.pth
+[2026-01-17 13:42:32,189] Epoch [5/5], Loss=0.1430, Acc=98.39%
+[2026-01-17 13:42:32,351] ✅ Training finished
+[2026-01-17 13:49:41,694] Using device: cuda
+[2026-01-17 13:49:41,694] Config: configs/lr_1e-3.yaml
+[2026-01-17 13:50:10,076] Epoch [1/5], Loss=0.5605, Acc=96.78%
+[2026-01-17 13:50:11,196] Best model saved: ./checkpoints/best.pth
+[2026-01-17 13:50:37,524] Epoch [2/5], Loss=0.2383, Acc=97.13%
+[2026-01-17 13:50:37,984] Best model saved: ./checkpoints/best.pth
+[2026-01-17 13:51:04,215] Epoch [3/5], Loss=0.1804, Acc=98.13%
+[2026-01-17 13:51:04,517] Best model saved: ./checkpoints/best.pth
+[2026-01-17 13:51:30,650] Epoch [4/5], Loss=0.1582, Acc=98.44%
+[2026-01-17 13:51:30,805] Best model saved: ./checkpoints/best.pth
+[2026-01-17 13:51:56,666] Epoch [5/5], Loss=0.1341, Acc=98.57%
+[2026-01-17 13:51:57,105] Best model saved: ./checkpoints/best.pth
+[2026-01-17 13:51:57,148] ✅ Training finished
+[2026-01-17 14:46:19,751] Using device: cuda
+[2026-01-17 14:46:19,751] Config: configs/lr_5e-4.yaml
+[2026-01-17 14:46:50,221] Epoch [1/5], Loss=0.7224, Acc=95.86%
+[2026-01-17 14:46:50,300] Best model saved: ./checkpoints/best.pth
+[2026-01-17 14:47:16,435] Epoch [2/5], Loss=0.3135, Acc=96.52%
+[2026-01-17 14:47:16,456] Best model saved: ./checkpoints/best.pth
+[2026-01-17 14:47:42,503] Epoch [3/5], Loss=0.2411, Acc=97.76%
+[2026-01-17 14:47:42,527] Best model saved: ./checkpoints/best.pth
+[2026-01-17 14:48:08,665] Epoch [4/5], Loss=0.2036, Acc=97.52%
+[2026-01-17 14:48:34,767] Epoch [5/5], Loss=0.1746, Acc=97.76%
+[2026-01-17 14:48:34,771] ✅ Training finished

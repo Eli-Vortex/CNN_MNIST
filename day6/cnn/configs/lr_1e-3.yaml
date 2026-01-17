@@ -1,0 +1,19 @@
+data:
+  root: ./data
+  batch_size: 64
+
+model:
+  num_classes: 10
+
+train:
+  epochs: 5
+  learning_rate: 0.001
+
+runtime:
+  device: auto   # auto / cpu / cuda
+
+log:
+  log_dir: ./logs
+
+checkpoint:
+  dir: ./checkpoints
